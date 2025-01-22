@@ -6,8 +6,8 @@ The game is developed in LUA and made to run in LOVE2D.
 The game code also allows for mobile, but I don't know how to make it available on Apple Store. However, I have found some issues when testing it on Ipad and on Iphone, so even if I knew how to publish it and make it available for free, it need some work.
 
 If you just want to try the game I suggest downloading one of the executable files - depending on your system - and running it from your computer:
-- Executable file for MacOS
-- Executable file for Windows
+- For MacOS: WILL UPLOAD IT SHORTLY
+- For Windows: Download "Holy_Ship_Windows.zip", extract it somewhere and run the HolyShip.exe file - Its a No Brainer!
 
 Disclaimer:
 The map in the game was retrieved from ICS - Institute of Chartered Shipbrokers - website, where it is publicly available - Because I was studying for their exam :) 
