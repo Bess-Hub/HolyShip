@@ -13,7 +13,7 @@ The game code also allows for mobile, but I don't know how to make it available 
 
 If you just want to try the game I suggest downloading one of the executable files - depending on your system - and running it from your computer:
 - For MacOS: WILL UPLOAD IT SHORTLY
-- For Windows: Download "Holy_Ship_Windows.zip", extract it somewhere and run the HolyShip.exe file - Its a No Brainer!
+- For Windows: Download "Holy_Ship_Windows.zip", extract it in a folder and run the HolyShip.exe file - A NO BRAINER!
 
 Disclaimer:
 The map in the game was retrieved from ICS - Institute of Chartered Shipbrokers - website, where it is publicly available - Because I was studying for their exam :) 
