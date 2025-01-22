@@ -1,11 +1,17 @@
 # HolyShip
-Holy Ship! is a free-to-play and not-for-profit point and click game developed by myself when studying some geographical aspects relevant to the Maritime Industry.
+Holy Ship! is a free-to-play and not-for-profit point and click game developed by myself when studying some geographical aspects relevant to the Maritime Industry, such as the location of major ports, waterways - canals, straits, gulfs, seas - and some other relevant aspects such as meridians and tropics.
 
 The game is developed in LUA and made to run in LOVE2D.
 
-An executable file for MacOS is available.
+The game code also allows for mobile, but I don't know how to make it available on Apple Store. However, I have found some issues when testing it on Ipad and on Iphone, so even if I knew how to publish it and make it available for free, it need some work.
+
+If you just want to try the game I suggest downloading one of the executable files - depending on your system - and running it from your computer:
+- Executable file for MacOS
+- Executable file for Windows
 
 Disclaimer:
-Please note that the map was retrieved from ICS - Institute of Chartered Shipbrokers - website, where it is available publicly.
-Although no copyright has been applied to the game, its distribution with commercial purposes is not allowed.
+The map in the game was retrieved from ICS - Institute of Chartered Shipbrokers - website, where it is publicly available - Because I was studying for their exam :) 
+Since the game is not being used for commercial purposes I did not pursue a written authorization.
+Although the game has no copyright, the code was written by me, duplicating/replicating it and/or distributing it with our without commercial purposes is strictly forbiden.
+Come on, it is a very simple game, make something commercial out of it is just mean.
 
