@@ -1,6 +1,12 @@
 # HolyShip
 Holy Ship! is a free-to-play and not-for-profit point and click game developed by myself when studying some geographical aspects relevant to the Maritime Industry, such as the location of major ports, waterways - canals, straits, gulfs, seas - and some other relevant aspects such as meridians and tropics.
 
+Once you select an option from the initial menu, a map will appear.
+In the top-left corner you will see the instruction "Click on"... And where it is expected for you to click
+It is as simple as that!
+
+![Example of Holy Ship!](https://github.com/Bess-Hub/HolyShip/blob/main/HolyShip/images/Sample.png)
+
 The game is developed in LUA and made to run in LOVE2D.
 
 The game code also allows for mobile, but I don't know how to make it available on Apple Store. However, I have found some issues when testing it on Ipad and on Iphone, so even if I knew how to publish it and make it available for free, it need some work.
